@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+div{
+    background-color: aqua; /*orqa fonga rang*/
+
+    width: 400px; /*uzunlik*/
+
+
+    height: 400px; /*balandlik*/
+
+
+    margin: 100px; /*har tarafdan suradi*/
+
+
+    padding: 20px;/*ichki tomondan har tarafga suradi*/
+
+
+    margin: 100px auto; /*tepadan 100 px pastga va ortaga olib keladi block elementni maring :auto; bersak  */
+}
